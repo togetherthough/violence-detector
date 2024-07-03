@@ -1,0 +1,13 @@
+frames:
+  IMAGE_SIZE: 240
+  NUM_FRAMES: 20
+  INPUT_SHAPE: [100, 96, 96, 3]
+  INPUT_SHAPE_2D: [96, 96, 3]
+  MAX_FRAMES: 100
+  HEIGHT: 96
+  WIDTH: 96
+
+training:
+  EPOCHS: 10
+  DATA_NUM: 20
+  
